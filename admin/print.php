@@ -1,0 +1,1 @@
+<script>alert('Surat sudah diprint');document.location.href='SP.php'</script>/n;
